@@ -1,4 +1,4 @@
-# Challenge #366 [Intermediate] Word funnel 2
+# ord funnel 2
 
 A word funnel is a series of words formed by removing one letter at a time from a starting word, keeping the remaining letters in order. For the purpose of this challenge, a word is defined as an entry in the enable1 word list. An example of a word funnel is:
 
